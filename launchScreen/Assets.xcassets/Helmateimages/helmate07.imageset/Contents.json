@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Deus Django Vintage MX Helmet-Photoroom 1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Deus Django Vintage MX Helmet-Photoroom.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Deus Django Vintage MX Helmet-Photoroom 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

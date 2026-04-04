@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Bell Billit transendent candy red _ gold-Photoroom.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Bell Billit transendent candy red _ gold-Photoroom 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Bell Billit transendent candy red _ gold-Photoroom 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
